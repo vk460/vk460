@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm $\color{#FF0055}{\textsf{Veena Kulkarni}}$! 👋</h1>
+<h1 align="center">Hi there, I'm $\color{#FF69B4}{\textsf{Veena Kulkarni}}$! 👋</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Software+Engineer;Generative+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Software+Engineer;Generative+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
