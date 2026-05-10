@@ -14,33 +14,48 @@ Connect with me on:
 
 ## 🛠️ My Tech Stack
 
-### AI / ML
+### 🤖 AI / ML & LLM Engineering
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)]()
 [![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)]()
-[![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat)]()
+[![RAG (Retrieval Augmented Generation)](https://img.shields.io/badge/RAG-FF6B35?style=flat)]()
+[![LLMs](https://img.shields.io/badge/LLMs-8B5CF6?style=flat)]()
 [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat)]()
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=pytorch&logoColor=white)]()
+[![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)]()
+[![Vector Databases (FAISS / Pinecone / ChromaDB)](https://img.shields.io/badge/Vector_DBs-005571?style=flat)]()
 [![NLP](https://img.shields.io/badge/NLP-00897B?style=flat)]()
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)]()
-[![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=flat&logo=numpy&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)]()
 
-### Web & Backend
+### 🌐 Full Stack Development
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)]()
+[![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)]()
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)]()
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)]()
+[![Django REST Framework](https://img.shields.io/badge/Django_REST-A30000?style=flat&logo=django&logoColor=white)]()
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)]()
-[![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)]()
+[![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)]()
 
-### Databases
+### 🗄️ Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)]()
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)]()
 
-### Tools
-[![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]()
+### ☁️ DevOps & Tools
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)]()
+[![CI/CD (GitHub Actions)](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)]()
+[![Linux Basics](https://img.shields.io/badge/Linux_Basics-FCC624?style=flat&logo=linux&logoColor=black)]()
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)]()
 
 ---
