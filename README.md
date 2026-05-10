@@ -1,8 +1,8 @@
-# <div align="center">Hi there, I'm <font color="#9C27B0">Veena Kulkarni</font>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
+<h1 align="center">Hi there, I'm $\color{#FF0055}{\textsf{Veena Kulkarni}}$! 👋</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Software+Engineer;Generative+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Software+Engineer;Generative+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
