@@ -7,7 +7,6 @@
 </div>
 
 An aspiring AI Engineer & Full-Stack Developer focused on building intelligent, scalable, and real-world AI systems.
-
 Working at the intersection of LLMs, Agentic AI, and modern web development, with interest in building systems that combine intelligence, automation, and user-centric design.
 
 <div align="center">
