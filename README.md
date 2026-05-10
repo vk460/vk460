@@ -11,12 +11,8 @@ I'm a final-year Computer Science & Engineering student (CGPA 9.5/10.0) with a p
 <div align="center">
   
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veena-kulkarni-6a96822aa)
+&nbsp; &nbsp; &nbsp;
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veenakulkarni261@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vk460)
-<br/>
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/veenakulkarni261/)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/veenakulkarni261)
-[![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vk460)
 
 </div>
 
@@ -152,13 +148,19 @@ I'm a final-year Computer Science & Engineering student (CGPA 9.5/10.0) with a p
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/getting_started_with_artificial_intelligence.jfif" width="100" title="Getting Started with Artificial Intelligence"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/introduction_to_large_language_models.jfif" width="100" title="Introduction to Large Language Models"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/build_an_ai_agent.png" width="100" title="Build an AI Agent"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/unleashing_the_power_of_ai_agents.png" width="100" title="Unleashing the Power of AI Agents"/>
-  <br/><br/>
+  <br/><br/><br/>
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/the_rise_of_multiagent_systems.png" width="100" title="The Rise of Multiagent Systems"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/ibm_granite_models_for_software_development.png" width="100" title="IBM Granite Models for Software Development"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/use_generative_ai_for_software_development.jfif" width="100" title="Use Generative AI for Software Development"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/250%20problem%20solve%20badge.jfif" width="100" title="250+ Problem Solving Badge"/>
 </p>
 
