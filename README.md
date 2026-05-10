@@ -6,18 +6,9 @@
   </a>
 </div>
 
-Hi, I’m an aspiring AI Engineer & Full-Stack Developer passionate about building intelligent systems that solve real-world problems.
+An aspiring AI Engineer & Full-Stack Developer focused on building intelligent, scalable, and real-world AI systems.
 
-I enjoy working at the intersection of Artificial Intelligence, Web Development, and LLM-powered applications, where I explore how AI agents, automation, and modern web technologies can create impactful user experiences.
-
-Currently, I am focused on:
-
-🤖 Building AI applications using LLMs, LangChain, and multi-agent systems (CrewAI)
-🌐 Developing full-stack applications using Django, React, and REST APIs
-🧠 Exploring RAG pipelines, prompt engineering, and vector databases
-⚙️ Learning scalable backend systems and deployment workflows
-
-I love turning ideas into working projects and continuously improving my skills through hands-on development and open-source contributions.
+Working at the intersection of LLMs, Agentic AI, and modern web development, with interest in building systems that combine intelligence, automation, and user-centric design.
 
 <div align="center">
   
