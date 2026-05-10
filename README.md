@@ -141,7 +141,6 @@ Working at the intersection of LLMs, Agentic AI, and modern web development, wit
 | ![NPTEL DBMS](https://img.shields.io/badge/Database_Management_System-FF6B35?style=flat) | [Database Management System](https://github.com/vk460/vk460/blob/main/badges/Data%20Base%20Management%20System.pdf) | NPTEL |
 | ![Hackathon Winner](https://img.shields.io/badge/Hackathon_Winner-FFCA28?style=flat) | [Hackathon 2k25 Winner](https://github.com/vk460/vk460/blob/main/badges/hackathon%20winner.pdf) | SKN Sinhgad |
 | ![PBL Certificate](https://img.shields.io/badge/PBL_Certificate-00897B?style=flat) | [Project Based Learning Certificate](https://github.com/vk460/vk460/blob/main/badges/pbl%20certificate%20(1).pdf) | SKN Sinhgad |
-| ![NxtWave](https://img.shields.io/badge/Build_Your_Gen_AI_Model-6C3483?style=flat) | Build Your Generative AI Model | NxtWave |
 
 ### Badges & Honors
 
