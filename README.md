@@ -6,7 +6,18 @@
   </a>
 </div>
 
-I'm a final-year Computer Science & Engineering student (CGPA 9.5/10.0) with a passion for Generative AI, Agentic AI, and building intelligent systems that solve real-world problems.
+Hi, I’m an aspiring AI Engineer & Full-Stack Developer passionate about building intelligent systems that solve real-world problems.
+
+I enjoy working at the intersection of Artificial Intelligence, Web Development, and LLM-powered applications, where I explore how AI agents, automation, and modern web technologies can create impactful user experiences.
+
+Currently, I am focused on:
+
+🤖 Building AI applications using LLMs, LangChain, and multi-agent systems (CrewAI)
+🌐 Developing full-stack applications using Django, React, and REST APIs
+🧠 Exploring RAG pipelines, prompt engineering, and vector databases
+⚙️ Learning scalable backend systems and deployment workflows
+
+I love turning ideas into working projects and continuously improving my skills through hands-on development and open-source contributions.
 
 <div align="center">
   
