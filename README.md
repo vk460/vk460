@@ -1,4 +1,4 @@
-# <div align="center">Hi there, I'm Veena Kulkarni! 👋</div>
+# <div align="center">Hi there, I'm <font color="#2196F3">Veena Kulkarni</font>! 👋</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -139,11 +139,13 @@ I'm a final-year Computer Science & Engineering student (CGPA 9.5/10.0) with a p
 
 | Badge | Certification | Issuer |
 |-------|--------------|--------|
-| ![OCI AI Foundations](https://img.shields.io/badge/OCI_AI_Foundations_Associate-F80000?style=flat&logo=oracle&logoColor=white) | Oracle Cloud Infrastructure AI Foundations Associate | Oracle (2025) |
+| ![OCI AI Foundations](https://img.shields.io/badge/OCI_AI_Foundations_Associate-F80000?style=flat&logo=oracle&logoColor=white) | [Oracle Cloud Infrastructure AI Foundations Associate](https://github.com/vk460/vk460/blob/main/badges/oracle%20certificate.pdf) | Oracle (2025) |
 | ![IBM Agentic AI](https://img.shields.io/badge/Agentic_AI:_Learner_to_Builder-054ADA?style=flat&logo=ibm&logoColor=white) | Agentic AI: From Learner to Builder | IBM |
 | ![IBM GenAI](https://img.shields.io/badge/Generative_AI:_Prompt_to_Production-054ADA?style=flat&logo=ibm&logoColor=white) | Generative AI: From Prompt to Production | IBM |
-| ![NPTEL Python](https://img.shields.io/badge/Python_for_Data_Science-FF6B35?style=flat) | Python for Data Science | NPTEL |
-| ![NPTEL DBMS](https://img.shields.io/badge/Database_Management_System-FF6B35?style=flat) | Database Management System | NPTEL |
+| ![NPTEL Python](https://img.shields.io/badge/Python_for_Data_Science-FF6B35?style=flat) | [Python for Data Science](https://github.com/vk460/vk460/blob/main/badges/Python%20for%20Data%20Science.pdf) | NPTEL |
+| ![NPTEL DBMS](https://img.shields.io/badge/Database_Management_System-FF6B35?style=flat) | [Database Management System](https://github.com/vk460/vk460/blob/main/badges/Data%20Base%20Management%20System.pdf) | NPTEL |
+| ![Hackathon Winner](https://img.shields.io/badge/Hackathon_Winner-FFCA28?style=flat) | [Hackathon 2k25 Winner](https://github.com/vk460/vk460/blob/main/badges/hackathon%20winner.pdf) | SKN Sinhgad |
+| ![PBL Certificate](https://img.shields.io/badge/PBL_Certificate-00897B?style=flat) | [Project Based Learning Certificate](https://github.com/vk460/vk460/blob/main/badges/pbl%20certificate%20(1).pdf) | SKN Sinhgad |
 | ![NxtWave](https://img.shields.io/badge/Build_Your_Gen_AI_Model-6C3483?style=flat) | Build Your Generative AI Model | NxtWave |
 
 ### Badges & Honors
@@ -182,11 +184,16 @@ I'm a final-year Computer Science & Engineering student (CGPA 9.5/10.0) with a p
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vk460&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Veena's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk460&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk460&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 <br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk460&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vk460&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ### 🐍 Contribution Graph
