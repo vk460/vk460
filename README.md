@@ -1,4 +1,4 @@
-# <div align="center">Hi there, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=35&pause=1000&color=F7B731&center=false&vCenter=true&width=300&lines=Veena+Kulkarni" alt="Veena Kulkarni" />! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></div>
+# <div align="center">Hi there, I'm <font color="#2196F3">Veena Kulkarni</font>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
