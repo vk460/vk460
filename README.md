@@ -155,6 +155,7 @@ I'm a final-year Computer Science & Engineering student (CGPA 9.5/10.0) with a p
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/introduction_to_large_language_models.jfif" width="100" title="Introduction to Large Language Models"/>
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/build_an_ai_agent.png" width="100" title="Build an AI Agent"/>
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/unleashing_the_power_of_ai_agents.png" width="100" title="Unleashing the Power of AI Agents"/>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/the_rise_of_multiagent_systems.png" width="100" title="The Rise of Multiagent Systems"/>
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/ibm_granite_models_for_software_development.png" width="100" title="IBM Granite Models for Software Development"/>
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/use_generative_ai_for_software_development.jfif" width="100" title="Use Generative AI for Software Development"/>
