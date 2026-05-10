@@ -1,14 +1,24 @@
-# Hi there, I'm Veena! 👋
+# <div align="center">Hi there, I'm Veena Kulkarni! 👋</div>
 
-I'm an **AI/ML Developer** and final-year Computer Science & Engineering student (CGPA 9.5/10.0) with a passion for Generative AI, Agentic AI, and building intelligent systems that solve real-world problems.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Software+Engineer;Generative+AI+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-Connect with me on:
+I'm a final-year Computer Science & Engineering student (CGPA 9.5/10.0) with a passion for Generative AI, Agentic AI, and building intelligent systems that solve real-world problems.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/veena-kulkarni)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/vk460)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:veenakulkarni261@gmail.com)
-[![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
+<div align="center">
+  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veena-kulkarni-6a96822aa)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veenakulkarni261@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vk460)
+<br/>
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/veenakulkarni261/)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/veenakulkarni261)
+[![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vk460)
+
+</div>
 
 ---
 
@@ -62,31 +72,64 @@ Connect with me on:
 
 ## 🚀 Featured Projects
 
-### 🤖 [Gen-AI Teaching Assistant for DSA](https://github.com/vk460) — RAG-Based AI Tutor (2026)
-> Python · LangChain · LLM · RAG · Vector Database · Web Scraping
-
-An AI tutor that retrieves DSA knowledge from GitHub and GeeksforGeeks and guides students through **Socratic questioning and hints** instead of giving direct answers — making learning more effective.
-
----
-
-### 🌐 AI-Powered Multilingual Content Localization Engine (2025)
-> Python · OpenAI Whisper · SBERT · IndicTrans2 · PyTorch · NLP Pipelines
-
-Architected a localization engine that makes educational content accessible across Indian languages using **domain-aware speech-to-text** and selective translation with technical term protection.
-
----
-
-### 📚 UniPrep — AI-Driven Exam Preparation Platform (2025)
-> React 18 · Django · Groq API (Llama 3.1) · scikit-learn · KeyBERT · Sentence Transformers
-
-Built an AI-driven platform that identifies important and repeated exam questions using **NLP and machine learning** to help students prepare smarter.
-
----
-
-### 💼 Local Freelancer Platform — AI-Based Skill Job Matching (2025)
-> Python · SBERT · Transformers · REST APIs
-
-Developed a platform connecting freelancers with job opportunities using **AI-based skill–job matching** and personalized growth recommendations.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Gen-AI Teaching Assistant for DSA</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-FF6B35?style=flat" />
+      </div>
+      <br/>
+      <p>An AI tutor that retrieves DSA knowledge from GitHub and GeeksforGeeks and guides students through <b>Socratic questioning and hints</b> instead of giving direct answers.</p>
+      <div align="center">
+         <a href="https://github.com/vk460/dsa-teaching-assistant"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 AI-Powered Multilingual Content Localization Engine</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-00897B?style=flat" />
+      </div>
+      <br/>
+      <p>Architected a localization engine that makes educational content accessible across Indian languages using <b>domain-aware speech-to-text</b> and selective translation.</p>
+      <div align="center">
+         <a href="https://github.com/vk460/multilingual-content-localization"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📚 UniPrep — AI-Driven Exam Prep</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+      </div>
+      <br/>
+      <p>Built an AI-driven platform that identifies important and repeated exam questions using <b>NLP and machine learning</b> to help students prepare smarter.</p>
+      <div align="center">
+         <a href="https://github.com/vk460/uniprep"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Local Freelancer Platform</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat" />
+        <img src="https://img.shields.io/badge/Transformers-FFCA28?style=flat" />
+      </div>
+      <br/>
+      <p>Developed a platform connecting freelancers with job opportunities using <b>AI-based skill–job matching</b> and personalized growth recommendations.</p>
+      <div align="center">
+         <a href="https://github.com/vk460/freelancer-platform"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -103,7 +146,7 @@ Developed a platform connecting freelancers with job opportunities using **AI-ba
 | ![NPTEL DBMS](https://img.shields.io/badge/Database_Management_System-FF6B35?style=flat) | Database Management System | NPTEL |
 | ![NxtWave](https://img.shields.io/badge/Build_Your_Gen_AI_Model-6C3483?style=flat) | Build Your Generative AI Model | NxtWave |
 
-### IBM SkillsBuild Badges
+### Badges & Honors
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/getting_started_with_artificial_intelligence.jfif" width="100" title="Getting Started with Artificial Intelligence"/>
@@ -113,16 +156,16 @@ Developed a platform connecting freelancers with job opportunities using **AI-ba
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/the_rise_of_multiagent_systems.png" width="100" title="The Rise of Multiagent Systems"/>
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/ibm_granite_models_for_software_development.png" width="100" title="IBM Granite Models for Software Development"/>
   <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/use_generative_ai_for_software_development.jfif" width="100" title="Use Generative AI for Software Development"/>
+  <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/250%20problem%20solve%20badge.jfif" width="100" title="250+ Problem Solving Badge"/>
 </p>
 
-> **IBM SkillsBuild Badges earned:**
-> - Getting Started with Artificial Intelligence
-> - Introduction to Large Language Models
-> - Build an AI Agent
-> - Unleashing the Power of AI Agents
-> - The Rise of Multiagent Systems
-> - IBM Granite Models for Software Development
-> - Use Generative AI for Software Development
+### 📜 Verified Certificates
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vk460/vk460/main/badges/OCI25AICFA.jpeg" width="300" title="OCI AI Foundations Certificate"/>
+  <br/><br/>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id="><img src="https://img.shields.io/badge/Verify_Certificate-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -137,14 +180,23 @@ Developed a platform connecting freelancers with job opportunities using **AI-ba
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vk460&theme=github_dark&show_icons=true&hide_border=false" alt="Veena's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk460&theme=github_dark&layout=compact&hide_border=false" alt="Top Languages" height="165"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vk460&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Veena's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk460&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk460&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vk460&theme=github-dark-blue&hide_border=false" alt="GitHub Streak"/>
-</p>
+### 🐍 Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vk460/vk460/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vk460/vk460/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vk460/vk460/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
