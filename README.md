@@ -206,16 +206,6 @@ Working at the intersection of LLMs, Agentic AI, and modern web development, wit
   </picture>
 </div>
 
----
-
-## 🎓 Education
-
-**B.E. Computer Science & Engineering** | SKN Sinhgad College of Engineering, Pandharpur
-- CGPA: **9.5 / 10.0** (2023–2027)
-- Honours: Artificial Intelligence & Machine Learning
-- Minor: Internet of Things
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vk460&style=flat&color=blue" alt="Profile Views"/>
