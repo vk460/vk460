@@ -183,8 +183,8 @@ I'm a final-year Computer Science & Engineering student (CGPA 9.5/10.0) with a p
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vk460&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Veena's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk460&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vk460&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Veena's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vk460&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 <br/>
 <div align="center">
