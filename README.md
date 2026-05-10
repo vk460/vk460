@@ -9,11 +9,6 @@
 An aspiring AI Engineer & Full-Stack Developer focused on building intelligent, scalable, and real-world AI systems.
 Working at the intersection of LLMs, Agentic AI, and modern web development, with interest in building systems that combine intelligence, automation, and user-centric design.
 
-<br/>
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veena-kulkarni-6a96822aa)
-&nbsp; &nbsp; &nbsp;
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veenakulkarni261@gmail.com)
 
 ---
 
