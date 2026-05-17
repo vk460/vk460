@@ -96,15 +96,11 @@ class VeenaKulkarni:
 <!--  2. CONNECT WITH ME                       -->
 <!-- ══════════════════════════════════════════ -->
 
-<div align="center">
-
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Veena_Kulkarni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veena-kulkarni-6a96822aa)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veenakulkarni261@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-vk460-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vk460)
-
-</div>
 
 ---
 
@@ -112,23 +108,17 @@ class VeenaKulkarni:
 <!--  3. PORTFOLIO & RESUME                    -->
 <!-- ══════════════════════════════════════════ -->
 
-<div align="center">
-
 ## 🌐 Portfolio & Resume
 
 [![Portfolio](https://img.shields.io/badge/🖥️_Portfolio-Visit_Now-e8622a?style=for-the-badge)](https://your-portfolio-link.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-ff6b9d?style=for-the-badge)](https://github.com/vk460/vk460/raw/main/resume/veena_resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veena-kulkarni-6a96822aa)
 
-</div>
-
 ---
 
 <!-- ══════════════════════════════════════════ -->
 <!--  4. TECH STACK                            -->
 <!-- ══════════════════════════════════════════ -->
-
-<div align="center">
 
 ## 🛠️ My Tech Stack
 
@@ -187,8 +177,6 @@ class VeenaKulkarni:
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)]()
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)]()
-
-</div>
 
 ---
 
