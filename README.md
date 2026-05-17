@@ -84,25 +84,6 @@ class VeenaKulkarni:
 
 <br clear="right"/>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvk460&query=%24.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=FF8C42&labelColor=0d1117" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/DSA%20SOLVED-250%2B-ff6b9d?style=for-the-badge&labelColor=0d1117" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CGPA-9.5%2F10-ffb347?style=for-the-badge&labelColor=0d1117" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CERTIFICATIONS-7%2B-c084fc?style=for-the-badge&labelColor=0d1117" />
-    </td>
-  </tr>
-</table>
-
-<br clear="right"/>
-
 ---
 
 <!-- ══════════════════════════════════════════ -->
