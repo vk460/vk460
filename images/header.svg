@@ -1,103 +1,156 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 185" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
   <defs>
-    <!-- Left Accent Bar Gradient -->
-    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF6B35"/>
-      <stop offset="50%" stop-color="#FF2D78"/>
-      <stop offset="100%" stop-color="#BF5AF2"/>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0008" />
+      <stop offset="100%" stop-color="#0d0014" />
     </linearGradient>
 
-    <!-- Underline Gradient -->
-    <linearGradient id="underline1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF6B35"/>
-      <stop offset="100%" stop-color="#BF5AF2"/>
+    <!-- Cyberpunk Accent Gradient -->
+    <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B35" />
+      <stop offset="50%" stop-color="#FF2D78" />
+      <stop offset="100%" stop-color="#BF5AF2" />
     </linearGradient>
-    
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 40 M 0 0 L 40 40" fill="none" stroke="#BF5AF2" stroke-width="0.3" opacity="0.06" />
+    </pattern>
+
+    <!-- Scanline Pattern -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#BF5AF2" stroke-width="0.4" opacity="0.08" />
+    </pattern>
+
+    <!-- Neon Glow Filter -->
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComponentTransfer in="blur" result="glow">
+        <feFuncA type="linear" slope="0.7"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode in="glow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@900&amp;family=Courier+Prime:wght@700&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&amp;display=swap');
       
       .glitch-text {
-        font-family: 'Outfit', Georgia, serif;
-        font-size: 54px;
+        font-family: 'Arial Black', Impact, sans-serif;
+        font-size: 56px;
         font-weight: 900;
-        letter-spacing: -1px;
+        letter-spacing: -1.5px;
+        text-transform: uppercase;
       }
       
       .subtitle-text {
         font-family: 'Courier Prime', 'Courier New', monospace;
-        font-size: 13px;
-        letter-spacing: 2px;
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: 3px;
         fill: #FF8C42;
       }
 
-      /* Cyberpunk Glitch & Flicker Animation */
-      @keyframes glitch {
-        0% {
-          transform: translate(0);
-        }
-        20% {
-          transform: translate(-1.5px, 1.5px);
-        }
-        40% {
-          transform: translate(-0.8px, -0.8px);
-        }
-        60% {
-          transform: translate(1.5px, -1.5px);
-        }
-        80% {
-          transform: translate(0.8px, 1.5px);
-        }
-        100% {
-          transform: translate(0);
-        }
+      /* Cyberpunk Glitch Shadow Shift Animations */
+      @keyframes glitch-cyan {
+        0%, 100% { transform: translate(0, 0); }
+        92% { transform: translate(0, 0); }
+        93% { transform: translate(-3px, 1px); }
+        94% { transform: translate(1px, -1px); }
+        95% { transform: translate(0, 0); }
+        97% { transform: translate(-1px, -2px); }
+        98% { transform: translate(2px, 1px); }
+        99% { transform: translate(0, 0); }
       }
 
-      @keyframes flicker {
-        0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
-          opacity: 1;
-        }
-        20%, 24%, 55% {
-          opacity: 0.8;
-        }
+      @keyframes glitch-pink {
+        0%, 100% { transform: translate(0, 0); }
+        85% { transform: translate(0, 0); }
+        86% { transform: translate(3px, -1px); }
+        87% { transform: translate(-2px, 1px); }
+        88% { transform: translate(0, 0); }
+        94% { transform: translate(2px, 1px); }
+        95% { transform: translate(-1px, -1px); }
+        96% { transform: translate(0, 0); }
       }
 
-      .animated-glitch {
-        animation: glitch 2s infinite steps(2);
+      .glitch-cyan {
+        animation: glitch-cyan 4.5s infinite steps(1);
       }
 
-      .animated-flicker {
-        animation: flicker 6s infinite;
+      .glitch-pink {
+        animation: glitch-pink 6s infinite steps(1);
       }
+
+      /* Underline Draw In Animation */
+      @keyframes drawLine {
+        from { width: 0; }
+        to { width: 560px; }
+      }
+
+      .underline-animated {
+        animation: drawLine 1.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+      }
+
+      /* Pulsing Dots Opacity Animations */
+      @keyframes pulse-pink { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } }
+      @keyframes pulse-cyan { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+      @keyframes pulse-purple { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+      @keyframes pulse-orange { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+
+      .dot-pink { animation: pulse-pink 2s infinite ease-in-out; }
+      .dot-cyan { animation: pulse-cyan 2.5s infinite ease-in-out; }
+      .dot-purple { animation: pulse-purple 3s infinite ease-in-out; }
+      .dot-orange { animation: pulse-orange 1.8s infinite ease-in-out; }
     </style>
   </defs>
 
-  <!-- Background -->
-  <rect x="0" y="0" width="640" height="185" rx="8" fill="#0a0a0a" />
+  <!-- 1. Background Rect with Gradient -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)" />
 
-  <!-- Accent bar left -->
-  <rect x="0" y="0" width="4" height="185" fill="url(#g1)" />
+  <!-- 2. purple grid overlay -->
+  <rect width="100%" height="100%" fill="url(#grid)" />
 
-  <!-- Scanlines top and bottom -->
-  <rect x="0" y="0" width="640" height="2" fill="#FF6B35" opacity="0.5" />
-  <rect x="0" y="183" width="640" height="2" fill="#BF5AF2" opacity="0.5" />
+  <!-- 3. scanlines overlay -->
+  <rect width="100%" height="100%" fill="url(#scanlines)" />
 
-  <!-- Main name with chromatic aberration split shadow -->
-  <!-- Cyan Shadow -->
-  <text x="34" y="112" class="glitch-text" fill="#00f0ff" opacity="0.35">Veena Kulkarni</text>
-  
-  <!-- Pink Shadow -->
-  <text x="37" y="114" class="glitch-text" fill="#FF2D78" opacity="0.45">Veena Kulkarni</text>
-  
-  <!-- Main White Text -->
-  <text x="35" y="113" class="glitch-text animated-glitch" fill="#ffffff">Veena Kulkarni</text>
+  <!-- 4. Left 4px accent bar -->
+  <rect x="0" y="0" width="4" height="200" fill="url(#cyberGrad)" />
 
-  <!-- Underline gradient -->
-  <rect x="35" y="122" width="420" height="3" rx="1" fill="url(#underline1)" />
+  <!-- 5. Top and bottom 2px border lines -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#cyberGrad)" />
+  <rect x="0" y="198" width="900" height="2" fill="url(#cyberGrad)" />
 
-  <!-- Subtitle -->
-  <text x="37" y="154" class="subtitle-text animated-flicker">AI DEVELOPER  •  GENAI BUILDER  •  9.5 CGPA</text>
+  <!-- 6. Glitch Name Text (X=60, Y=105) -->
+  <g>
+    <!-- Bottom layer: #FF2D78 pink, offset +3px right/down, opacity 0.20 -->
+    <text x="63" y="108" class="glitch-text glitch-pink" fill="#FF2D78" opacity="0.20">Veena Kulkarni</text>
+    
+    <!-- Middle layer: #00f0ff cyan, offset -3px left/up, opacity 0.15 -->
+    <text x="57" y="102" class="glitch-text glitch-cyan" fill="#00f0ff" opacity="0.15">Veena Kulkarni</text>
+    
+    <!-- Top layer: #ffffff white, opacity 0.90 -->
+    <text x="60" y="105" class="glitch-text" fill="#ffffff" opacity="0.90">Veena Kulkarni</text>
+  </g>
 
-  <!-- Corner Brackets -->
-  <path d="M605 15 L625 15 L625 35" fill="none" stroke="#BF5AF2" stroke-width="1.5" />
-  <path d="M605 170 L625 170 L625 150" fill="none" stroke="#FF6B35" stroke-width="1.5" />
+  <!-- 7. Underline animated gradient bar -->
+  <rect x="60" y="117" height="3" rx="1.5" fill="url(#cyberGrad)" class="underline-animated" />
+
+  <!-- 8. Subtitle in #FF8C42 Courier New 14px -->
+  <text x="62" y="152" class="subtitle-text">AI &amp; ML DEVELOPER · DATA ANALYTICS · FULL STACK DEVELOPER</text>
+
+  <!-- 9. Corner brackets (Purple top-right, Orange bottom-right) -->
+  <!-- Top-Right purple bracket -->
+  <path d="M840 20 L870 20 L870 50" fill="none" stroke="#BF5AF2" stroke-width="2" />
+  <!-- Bottom-Right orange bracket -->
+  <path d="M840 180 L870 180 L870 150" fill="none" stroke="#FF6B35" stroke-width="2" />
+
+  <!-- 10. Pulsing neon dots on the right side -->
+  <circle cx="750" cy="100" r="5" fill="#FF2D78" class="dot-pink" filter="url(#neonGlow)" />
+  <circle cx="770" cy="100" r="5" fill="#00f0ff" class="dot-cyan" filter="url(#neonGlow)" />
+  <circle cx="790" cy="100" r="5" fill="#BF5AF2" class="dot-purple" filter="url(#neonGlow)" />
+  <circle cx="810" cy="100" r="5" fill="#FF8C42" class="dot-orange" filter="url(#neonGlow)" />
 </svg>
