@@ -6,7 +6,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="images/download.jfif" width="200" alt="Profile Image" />
+  <img src="images/download%20(1).jfif" width="200" alt="Profile Image" />
 </div>
 
 An aspiring AI Engineer & Full-Stack Developer focused on building intelligent, scalable, and real-world AI systems.
