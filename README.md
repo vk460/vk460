@@ -9,8 +9,8 @@
       <p>An aspiring AI Engineer & Full-Stack Developer focused on building intelligent, scalable, and real-world AI systems.</p>
       <p>Working at the intersection of LLMs, Agentic AI, and modern web development, with interest in building systems that combine intelligence, automation, and user-centric design.</p>
     </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="images/banner.jfif" width="100%" alt="Profile Image" />
+    <td width="45%" align="center" valign="top">
+      <img src="images/banner.jfif" height="200" alt="Profile Image" />
     </td>
   </tr>
 </table>
