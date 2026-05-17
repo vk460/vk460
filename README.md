@@ -5,7 +5,7 @@
 <!-- ══ HERO BANNER ══ -->
 <div align="center">
 
-<img src="images/header.svg" width="100%" alt="VEENA KULKARNI — Cyberpunk Header"/>
+<img src="https://raw.githubusercontent.com/vk460/vk460/main/images/header.svg" width="100%" alt="VEENA KULKARNI — Cyberpunk Header"/>
 
 </div>
 
@@ -69,7 +69,7 @@ class VeenaKulkarni:
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF8C42?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="resume/veena_resume.pdf" target="_blank">
+  <a href="https://github.com/vk460/vk460/blob/main/resume/veena_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-ff6b9d?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
   &nbsp;&nbsp;
