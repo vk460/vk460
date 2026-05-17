@@ -5,7 +5,7 @@
 <!-- ══ HERO BANNER ══ -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=Veena%20Kulkarni&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Developer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%209.5%20CGPA&descSize=18&descAlignY=58&descColor=ffccaa)
+<img src="images/header.svg" width="100%" alt="VEENA KULKARNI — Cyberpunk Header"/>
 
 </div>
 

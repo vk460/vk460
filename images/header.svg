@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="100%">
+  <defs>
+    <!-- Cyberpunk Linear Gradient for Underline -->
+    <linearGradient id="cyberGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B35" />   <!-- Neon Orange -->
+      <stop offset="50%" stop-color="#FF007F" />  <!-- Neon Pink -->
+      <stop offset="100%" stop-color="#8B5CF6" /> <!-- Neon Purple -->
+    </linearGradient>
+    
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@900&amp;family=Fira+Code:wght@600&amp;display=swap');
+      
+      .glitch-text {
+        font-family: 'Outfit', 'Inter', 'Segoe UI', sans-serif;
+        font-weight: 900;
+        font-size: 64px;
+        text-transform: uppercase;
+      }
+      
+      .subtitle {
+        font-family: 'Fira Code', monospace;
+        font-weight: 600;
+        font-size: 16px;
+        letter-spacing: 5px;
+        fill: #FFCCAA;
+      }
+
+      /* Cyberpunk Glitch & Flicker Animation */
+      @keyframes glitch {
+        0% {
+          transform: translate(0);
+          text-shadow: none;
+        }
+        20% {
+          transform: translate(-2px, 2px);
+          text-shadow: -2px 0 #00ffff, 2px 0 #ff007f;
+        }
+        40% {
+          transform: translate(-1px, -1px);
+          text-shadow: -1px 0 #00ffff, 1px 0 #ff007f;
+        }
+        60% {
+          transform: translate(2px, -2px);
+          text-shadow: -2px 0 #00ffff, 2px 0 #ff007f;
+        }
+        80% {
+          transform: translate(1px, 2px);
+          text-shadow: -1px 0 #00ffff, 1px 0 #ff007f;
+        }
+        100% {
+          transform: translate(0);
+          text-shadow: none;
+        }
+      }
+
+      @keyframes flicker {
+        0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+          opacity: 1;
+        }
+        20%, 24%, 55% {
+          opacity: 0.85;
+        }
+      }
+
+      .animated-glitch {
+        animation: glitch 1.5s infinite steps(2);
+      }
+
+      .animated-flicker {
+        animation: flicker 4s infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="none" />
+
+  <g transform="translate(400, 100)" text-anchor="middle">
+    <!-- Static Glitch Background Shadows for extra depth -->
+    <!-- Cyan Shadow -->
+    <text x="-3" y="1" class="glitch-text" fill="#00FFFF" opacity="0.6">VEENA KULKARNI</text>
+    
+    <!-- Pink Shadow -->
+    <text x="3" y="-1" class="glitch-text" fill="#FF007F" opacity="0.6">VEENA KULKARNI</text>
+    
+    <!-- Main White Text (with animated flicker/glitch) -->
+    <text x="0" y="0" class="glitch-text animated-glitch" fill="#FFFFFF">VEENA KULKARNI</text>
+
+    <!-- Subtitle -->
+    <text x="0" y="44" class="subtitle animated-flicker">AI DEVELOPER • GENAI BUILDER</text>
+  </g>
+
+  <!-- Cyberpunk Underline Bar -->
+  <rect x="150" y="170" width="500" height="6" rx="3" fill="url(#cyberGradient)" />
+</svg>
