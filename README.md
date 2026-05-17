@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td width="50%" valign="top">
       <h1>Hi there, I'm $\color{#FF69B4}{\textsf{Veena Kulkarni}}$! 👋</h1>
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=false&vCenter=false&width=435&lines=AI%2FML+Developer;Software+Engineer;Generative+AI+Enthusiast" alt="Typing SVG" />
@@ -9,8 +9,8 @@
       <p>An aspiring AI Engineer & Full-Stack Developer focused on building intelligent, scalable, and real-world AI systems.</p>
       <p>Working at the intersection of LLMs, Agentic AI, and modern web development, with interest in building systems that combine intelligence, automation, and user-centric design.</p>
     </td>
-    <td width="30%" align="center" valign="top">
-      <img src="images/banner.jfif" height="280" style="border-radius: 10px;" alt="Profile Image" />
+    <td width="50%" align="center" valign="top">
+      <img src="images/banner.jfif" width="100%" style="border-radius: 10px;" alt="Profile Image" />
     </td>
   </tr>
 </table>
