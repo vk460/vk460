@@ -33,9 +33,7 @@
 
 ## 🧠 About Me
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="AI Developer Animation"/>
 
 ```python
 class VeenaKulkarni:
@@ -84,12 +82,7 @@ class VeenaKulkarni:
   </a>
 </div>
 
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="AI Developer Animation"/>
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 <table>
   <tr>
