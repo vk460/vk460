@@ -1,20 +1,19 @@
-<div align="center">
-  <img src="images/banner.jfif" width="100%" alt="Banner" />
-</div>
-
-<h1 align="center">Hi there, I'm $\color{#FF69B4}{\textsf{Veena Kulkarni}}$! 👋</h1>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Software+Engineer;Generative+AI+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
-<div align="center">
-  <img src="images/download%20(1).jfif" width="200" alt="Profile Image" />
-</div>
-
-An aspiring AI Engineer & Full-Stack Developer focused on building intelligent, scalable, and real-world AI systems.
-Working at the intersection of LLMs, Agentic AI, and modern web development, with interest in building systems that combine intelligence, automation, and user-centric design.
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h1>Hi there, I'm $\color{#FF69B4}{\textsf{Veena Kulkarni}}$! 👋</h1>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=false&vCenter=false&width=435&lines=AI%2FML+Developer;Software+Engineer;Generative+AI+Enthusiast" alt="Typing SVG" />
+      </a>
+      <br/><br/>
+      <p>An aspiring AI Engineer & Full-Stack Developer focused on building intelligent, scalable, and real-world AI systems.</p>
+      <p>Working at the intersection of LLMs, Agentic AI, and modern web development, with interest in building systems that combine intelligence, automation, and user-centric design.</p>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="images/banner.jfif" width="100%" alt="Profile Image" />
+    </td>
+  </tr>
+</table>
 
 
 ---
