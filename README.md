@@ -64,9 +64,29 @@ class VeenaKulkarni:
     quote = "Build. Break. Learn. Repeat. 🚀"
 ```
 
+<br/>
+
+<div align="left">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF8C42?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="resume/veena_resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-ff6b9d?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/veena-kulkarni-6a96822aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:veenakulkarni261@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="AI Developer Animation"/>
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320" alt="AI Developer Animation"/>
     </td>
   </tr>
 </table>
@@ -89,30 +109,6 @@ class VeenaKulkarni:
 </table>
 
 <br clear="right"/>
-
----
-
-<!-- ══════════════════════════════════════════ -->
-<!--  2. CONNECT WITH ME                       -->
-<!-- ══════════════════════════════════════════ -->
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Veena_Kulkarni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veena-kulkarni-6a96822aa)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veenakulkarni261@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vk460-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vk460)
-
----
-
-<!-- ══════════════════════════════════════════ -->
-<!--  3. PORTFOLIO & RESUME                    -->
-<!-- ══════════════════════════════════════════ -->
-
-## 🌐 Portfolio & Resume
-
-[![Portfolio](https://img.shields.io/badge/🖥️_Portfolio-Visit_Now-e8622a?style=for-the-badge)](https://your-portfolio-link.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-ff6b9d?style=for-the-badge)](https://github.com/vk460/vk460/raw/main/resume/veena_resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veena-kulkarni-6a96822aa)
 
 ---
 
