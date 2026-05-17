@@ -6,8 +6,27 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=false&vCenter=false&width=435&lines=AI%2FML+Developer;Software+Engineer;Generative+AI+Enthusiast" alt="Typing SVG" />
       </a>
       <br/><br/>
-      <p>An aspiring AI Engineer & Full-Stack Developer focused on building intelligent, scalable, and real-world AI systems.</p>
-      <p>Working at the intersection of LLMs, Agentic AI, and modern web development, with interest in building systems that combine intelligence, automation, and user-centric design.</p>
+      <p><b>🧠 I don't just study AI — I build with it.</b></p>
+      <p><i>CSE student · 9.5 CGPA · Generative AI Developer</i></p>
+      <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+      <p>While most students read about LLMs,<br/>
+      I'm busy building systems with them.</p>
+      <p>
+        &nbsp;&nbsp;→ AI tutors that actually teach<br/>
+        &nbsp;&nbsp;→ RAG pipelines that actually retrieve<br/>
+        &nbsp;&nbsp;→ Multilingual engines that actually scale
+      </p>
+      <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+      <p><b>⚙️ What I Know</b><br/>
+      &nbsp;&nbsp;Generative AI · LLMs · RAG · NLP<br/>
+      &nbsp;&nbsp;Agentic AI · Prompt Engineering<br/>
+      &nbsp;&nbsp;Python · Django · REST APIs</p>
+      <p><b>🔭 What I'm Exploring</b><br/>
+      &nbsp;&nbsp;Advanced Agentic architectures<br/>
+      &nbsp;&nbsp;DSA & system design for placements<br/>
+      &nbsp;&nbsp;Open source contributions</p>
+      <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+      <p><i>💬 "Build things. Break things. Learn fast."</i></p>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="images/banner.jfif" width="100%" style="border-radius: 10px;" alt="Profile Image" />
