@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="images/banner.jfif" width="100%" alt="Banner" />
+</div>
+
 <h1 align="center">Hi there, I'm $\color{#FF69B4}{\textsf{Veena Kulkarni}}$! 👋</h1>
 
 <div align="center">
