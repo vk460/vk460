@@ -406,8 +406,6 @@ class VeenaKulkarni:
 <!-- ══ FOOTER ══ -->
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling)
-
 **⭐ If you find my work useful, drop a star! Let's connect and build something amazing together.**
 
 </div>

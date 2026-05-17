@@ -1,55 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 185" width="100%">
   <defs>
-    <!-- Cyberpunk Linear Gradient for Underline -->
-    <linearGradient id="cyberGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF6B35" />   <!-- Neon Orange -->
-      <stop offset="50%" stop-color="#FF007F" />  <!-- Neon Pink -->
-      <stop offset="100%" stop-color="#8B5CF6" /> <!-- Neon Purple -->
+    <!-- Left Accent Bar Gradient -->
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="50%" stop-color="#FF2D78"/>
+      <stop offset="100%" stop-color="#BF5AF2"/>
+    </linearGradient>
+
+    <!-- Underline Gradient -->
+    <linearGradient id="underline1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="100%" stop-color="#BF5AF2"/>
     </linearGradient>
     
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@900&amp;family=Fira+Code:wght@600&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@900&amp;family=Courier+Prime:wght@700&amp;display=swap');
       
       .glitch-text {
-        font-family: 'Outfit', 'Inter', 'Segoe UI', sans-serif;
+        font-family: 'Outfit', Georgia, serif;
+        font-size: 54px;
         font-weight: 900;
-        font-size: 64px;
-        text-transform: uppercase;
+        letter-spacing: -1px;
       }
       
-      .subtitle {
-        font-family: 'Fira Code', monospace;
-        font-weight: 600;
-        font-size: 16px;
-        letter-spacing: 5px;
-        fill: #FFCCAA;
+      .subtitle-text {
+        font-family: 'Courier Prime', 'Courier New', monospace;
+        font-size: 13px;
+        letter-spacing: 2px;
+        fill: #FF8C42;
       }
 
       /* Cyberpunk Glitch & Flicker Animation */
       @keyframes glitch {
         0% {
           transform: translate(0);
-          text-shadow: none;
         }
         20% {
-          transform: translate(-2px, 2px);
-          text-shadow: -2px 0 #00ffff, 2px 0 #ff007f;
+          transform: translate(-1.5px, 1.5px);
         }
         40% {
-          transform: translate(-1px, -1px);
-          text-shadow: -1px 0 #00ffff, 1px 0 #ff007f;
+          transform: translate(-0.8px, -0.8px);
         }
         60% {
-          transform: translate(2px, -2px);
-          text-shadow: -2px 0 #00ffff, 2px 0 #ff007f;
+          transform: translate(1.5px, -1.5px);
         }
         80% {
-          transform: translate(1px, 2px);
-          text-shadow: -1px 0 #00ffff, 1px 0 #ff007f;
+          transform: translate(0.8px, 1.5px);
         }
         100% {
           transform: translate(0);
-          text-shadow: none;
         }
       }
 
@@ -58,38 +57,47 @@
           opacity: 1;
         }
         20%, 24%, 55% {
-          opacity: 0.85;
+          opacity: 0.8;
         }
       }
 
       .animated-glitch {
-        animation: glitch 1.5s infinite steps(2);
+        animation: glitch 2s infinite steps(2);
       }
 
       .animated-flicker {
-        animation: flicker 4s infinite;
+        animation: flicker 6s infinite;
       }
     </style>
   </defs>
 
   <!-- Background -->
-  <rect width="100%" height="100%" fill="none" />
+  <rect x="0" y="0" width="640" height="185" rx="8" fill="#0a0a0a" />
 
-  <g transform="translate(400, 100)" text-anchor="middle">
-    <!-- Static Glitch Background Shadows for extra depth -->
-    <!-- Cyan Shadow -->
-    <text x="-3" y="1" class="glitch-text" fill="#00FFFF" opacity="0.6">VEENA KULKARNI</text>
-    
-    <!-- Pink Shadow -->
-    <text x="3" y="-1" class="glitch-text" fill="#FF007F" opacity="0.6">VEENA KULKARNI</text>
-    
-    <!-- Main White Text (with animated flicker/glitch) -->
-    <text x="0" y="0" class="glitch-text animated-glitch" fill="#FFFFFF">VEENA KULKARNI</text>
+  <!-- Accent bar left -->
+  <rect x="0" y="0" width="4" height="185" fill="url(#g1)" />
 
-    <!-- Subtitle -->
-    <text x="0" y="44" class="subtitle animated-flicker">AI DEVELOPER • GENAI BUILDER</text>
-  </g>
+  <!-- Scanlines top and bottom -->
+  <rect x="0" y="0" width="640" height="2" fill="#FF6B35" opacity="0.5" />
+  <rect x="0" y="183" width="640" height="2" fill="#BF5AF2" opacity="0.5" />
 
-  <!-- Cyberpunk Underline Bar -->
-  <rect x="150" y="170" width="500" height="6" rx="3" fill="url(#cyberGradient)" />
+  <!-- Main name with chromatic aberration split shadow -->
+  <!-- Cyan Shadow -->
+  <text x="34" y="112" class="glitch-text" fill="#00f0ff" opacity="0.35">Veena Kulkarni</text>
+  
+  <!-- Pink Shadow -->
+  <text x="37" y="114" class="glitch-text" fill="#FF2D78" opacity="0.45">Veena Kulkarni</text>
+  
+  <!-- Main White Text -->
+  <text x="35" y="113" class="glitch-text animated-glitch" fill="#ffffff">Veena Kulkarni</text>
+
+  <!-- Underline gradient -->
+  <rect x="35" y="122" width="420" height="3" rx="1" fill="url(#underline1)" />
+
+  <!-- Subtitle -->
+  <text x="37" y="154" class="subtitle-text animated-flicker">AI DEVELOPER  •  GENAI BUILDER  •  9.5 CGPA</text>
+
+  <!-- Corner Brackets -->
+  <path d="M605 15 L625 15 L625 35" fill="none" stroke="#BF5AF2" stroke-width="1.5" />
+  <path d="M605 170 L625 170 L625 150" fill="none" stroke="#FF6B35" stroke-width="1.5" />
 </svg>
