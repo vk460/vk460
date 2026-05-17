@@ -5,6 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;Software+Engineer;Generative+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
+<div align="center">
+  <img src="images/download.jfif" width="200" alt="Profile Image" />
+</div>
 
 An aspiring AI Engineer & Full-Stack Developer focused on building intelligent, scalable, and real-world AI systems.
 Working at the intersection of LLMs, Agentic AI, and modern web development, with interest in building systems that combine intelligence, automation, and user-centric design.
