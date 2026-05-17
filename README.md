@@ -46,13 +46,11 @@ class VeenaKulkarni:
         "Generative AI", "Agentic AI",
         "RAG Pipelines", "LLMs", "NLP"
     ]
-
     building  = [
         "AI Tutors",
         "Multilingual NLP Engines",
         "Full-Stack Web Apps"
     ]
-
     currently = [
         "DSA & Placement Prep",
         "Advanced Agentic AI",
